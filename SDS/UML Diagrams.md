@@ -21,7 +21,8 @@
 
 ### 1. Диаграмма прецедентов<a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
-![Use Case](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/uml-diagrams/Use%20Case/UseCase.png)
+![UseCase](https://user-images.githubusercontent.com/71370448/205027598-9bacc526-c69c-4e71-817c-558e89cb10ab.png)
+
 #### 1.1 Актёры<a name="1.1"></a>
 Актёр | Описание
 --- | ---
@@ -104,7 +105,7 @@
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности основного варианта использования представляет из себя следующую диаграмму:
-![Sequence Diagram](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/uml-diagrams/Sequence/SequenceDiagram.png)
+![SequenceDiagram](https://user-images.githubusercontent.com/71370448/205027715-75bb27c5-d621-4498-a5df-0d7bc89a955c.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
 Диагаммы состояний более подробно расписаны в следующем документе: [диаграммы состояний](https://github.com/steppbol/B-Player/blob/master/documentation/uml-diagrams/State/README.md)
