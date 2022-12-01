@@ -112,7 +112,8 @@
 
 ### 5. Диаграмма классов<a name="5"></a>
 Диаграмма классов представляет собой следующую диаграмму: 
-![Class Diagram](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/uml-diagrams/Class/ClassDiagram.png)
+![ClassDiagram](https://user-images.githubusercontent.com/71370448/205037000-b4eb2392-5450-4900-9ec8-94eee7cd9c46.png)
+
 На диаграмме указаны некоторые стереотипы:
 * \<\<create\>\> - Конструктор. Метод который будет вызываться при создании объекта класса
 * \<\<destroy\>\> - Деструктор. Метод, который будет вызываться при уничтожении объекта
@@ -122,3 +123,4 @@
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
 Диаграммы развёртывания и компонентов представляет собой следующую диаграмму: 
 ![Deployment Diagram](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/uml-diagrams/Deployment%20Component/Deployment.png)
+![Deployment](https://user-images.githubusercontent.com/71370448/205037509-4ebe7d75-d831-42d6-bec1-76a92088b560.png)
