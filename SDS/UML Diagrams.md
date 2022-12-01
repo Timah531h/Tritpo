@@ -121,6 +121,5 @@
 * \<\<signal\>\> - Сигнал. Сигнал, который будет передаваться к связанным с ним слотам
 
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
-Диаграммы развёртывания и компонентов представляет собой следующую диаграмму: 
-![Deployment Diagram](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/uml-diagrams/Deployment%20Component/Deployment.png)
+Диаграммы развёртывания и компонентов представляет собой следующую диаграмму:
 ![Deployment](https://user-images.githubusercontent.com/71370448/205037509-4ebe7d75-d831-42d6-bec1-76a92088b560.png)
