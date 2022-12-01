@@ -10,12 +10,14 @@
 ### 1. Добавление аудиофайла<a name="1"></a>
 При нажатии кнопки "Add" откроется окно проводника для выбора аудиофайлов для записи в плейлист. Необходимо выбрать аудиофайлы и нажать "OK". При нажатии "Cancel" аудиофайлы не добавятся в плейлист, а окно закроется.
 
-![Добавление аудиофайла](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/Activity/Add.png)
+![Add](https://user-images.githubusercontent.com/71370448/205045864-e9f5b935-74e3-493d-8bd7-868addf6e6fd.png)
+
 
 ### 2. Начало воспроизведения<a name="2"></a>
 При нажатии кнопки "Play" начнется воспроизведение выбранной аудиозаписи из плейлиста. Приложение отобразит ее название в главном окне.
 
-![Начало воспроизведения](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/Activity/Play.png)
+![Play](https://user-images.githubusercontent.com/71370448/205046030-d8c5b305-6bf2-457c-914e-a3969b719aa7.png)
+
   
 ### 3. Изменение порядка воспроизведения<a name="3"></a>
 При нажатии кнопки "Random" изменится порядок воспроизведния аудиозаписей из плейлиста.
@@ -23,24 +25,29 @@
 * Кнопка "Random" нажата во второй раз - переключение порядка воспроизведения на последовательный.
 При последующих нажатиях будет чередоваться произвольный и последовательный порядки.
 
-![Изменение порядка воспроизведения](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/Activity/Random.png)
+![Random](https://user-images.githubusercontent.com/71370448/205046148-770836d8-bfad-425f-b25c-eb87fe6e4e05.png)
+
 
 ### 4. Воспроизведение следующей аудиозаписи<a name="4"></a>
 При нажатии кнопки "Next" начнется воспроизведение следующей аудиозаписи в плейлисти или первой, если плейлист закончился.
 
-![Воспроизведение следующей аудиозаписи](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/Activity/Next.png)
+![Воспроизведение следующей аудиозаписи]
+
+![Next](https://user-images.githubusercontent.com/71370448/205046264-d5af6b42-cc9e-40a6-9068-4d89f725a9b5.png)
 
 ### 5. Изменение громкости<a name="5"></a>
 При нажатии кнопки "Volume" отобразится ползунок для изменения громкости в переделах от 0 до 100. 
 
-![Изменение громкости](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/Activity/Volume.png)
+![Volume](https://user-images.githubusercontent.com/71370448/205046434-fa3ec303-9dab-4fdc-afdb-c04f88ae9e09.png)
+
 
 ### 6. Остановка воспроизведения<a name="6"></a>
 При нажатии кнопки "Pause" происходит остановка воспроизведения аудиозаписи на текущем прогрессе воспроизведния, чтобы в дальнейшем продолжить.
 
-![Остановка воспроизведения](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/Activity/Stop.png)
+![Stop](https://user-images.githubusercontent.com/71370448/205046528-b836bcac-e2d4-4f89-b8c0-5a16de6b62dc.png)
+
 
 ### 7. Удаление аудиозаписи<a name="7"></a>
 При нажатии клавиши "Delete" происходит удаление выбранной пользователем аудиозаписи из плейлиста.
 
-![Удаление аудиозаписи](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/Activity/Delete.png)
+![Delete](https://user-images.githubusercontent.com/71370448/205046638-00971936-f63b-43a2-aa78-41c3566264b6.png)
