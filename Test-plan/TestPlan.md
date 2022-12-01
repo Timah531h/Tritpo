@@ -133,7 +133,7 @@
 
 <a name="7"></a>
 ### 7. Представление результатов
-Результаты тестирования представлены в [таблице](https://github.com/steppbol/B-Player/blob/master/documentation/test-plan/TestResults.md).
+Результаты тестирования представлены в [таблице](https://github.com/Timah531h/Tritpo/blob/main/Test-plan/TestResults.md).
 
 <a name="8"></a>
 ### 8. Выводы
