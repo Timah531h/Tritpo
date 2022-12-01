@@ -108,7 +108,7 @@
 ![SequenceDiagram](https://user-images.githubusercontent.com/71370448/205027715-75bb27c5-d621-4498-a5df-0d7bc89a955c.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
-Диагаммы состояний более подробно расписаны в следующем документе: [диаграммы состояний](https://github.com/steppbol/B-Player/blob/master/documentation/uml-diagrams/State/README.md)
+Диагаммы состояний более подробно расписаны в следующем документе: [диаграммы состояний](https://github.com/Timah531h/Tritpo/blob/main/SDS/State/README.md)
 
 ### 5. Диаграмма классов<a name="5"></a>
 Диаграмма классов представляет собой следующую диаграмму: 
