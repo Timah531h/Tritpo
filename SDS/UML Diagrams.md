@@ -17,7 +17,7 @@
 5. [Диаграмма классов](#5)
 6. [Диаграмма развертывания и компонентов](#6)
 
-### [Глоссарий](https://github.com/steppbol/B-Player/blob/master/documentation/Glossary.md)
+### [Глоссарий](https://github.com/Timah531h/Tritpo/blob/main/SDS/Glossary.md)
 
 ### 1. Диаграмма прецедентов<a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
